@@ -12,4 +12,10 @@
 - Xcode 13.0+
 - Swift 5.5+
 
-![ezgif com-speed](https://github.com/madhurirathaur/SegmentWithImage-SwiftUI/assets/832029/ced4f3d1-4875-48e5-96f1-1b00867a3d9a)
+
+
+
+
+
+https://github.com/madhurirathaur/SegmentWithImage-SwiftUI/assets/832029/ebc9a1c8-5c62-4fbd-8def-67d3d7b76b88
+
